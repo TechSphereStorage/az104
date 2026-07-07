@@ -15,3 +15,7 @@ Someone asked about the hub-and-spoke model of network topology. Here's a lab fr
 https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.md
 
 We've also created a real-life Load Balancer lab for you where we teach you how to implement a lab environment that will reflect a very popular webshop that has to handle lots of incoming traffic from customers worldwide. Click on the [PDF](Load%2BBalancer%2Blab.pdf) below to start the lab with your own Azure account.
+
+# Network watcher
+There is a lab on Azure Citadel dealing with Network Watcher:
+https://azurecitadel.com/infra/vdc/lab4/
